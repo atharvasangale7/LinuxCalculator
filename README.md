@@ -158,7 +158,7 @@ Images
 </html>
 
 
+![Alt text](https://github.com/atharvasangale7/LinuxCalculator/blob/5b2b7f51f3375de377c64767e398bbe5dc5e5fc2/Screenshot%202025-07-09%20213831.png)
+![Alt text](https://github.com/atharvasangale7/LinuxCalculator/blob/784ff5fb59a2df9034bcab8d8bd12cf1e72cbcbc/Screenshot%202025-07-09%20214005.png)
+![Alt text](https://github.com/atharvasangale7/LinuxCalculator/blob/81dd144c5786c8e313d69f9515da9097dd02eeb7/Screenshot%202025-07-09%20214028.png)
 
-https://github.com/atharvasangale7/LinuxCalculator/blob/5b2b7f51f3375de377c64767e398bbe5dc5e5fc2/Screenshot%202025-07-09%20213831.png
-https://github.com/atharvasangale7/LinuxCalculator/blob/784ff5fb59a2df9034bcab8d8bd12cf1e72cbcbc/Screenshot%202025-07-09%20214005.png
-https://github.com/atharvasangale7/LinuxCalculator/blob/81dd144c5786c8e313d69f9515da9097dd02eeb7/Screenshot%202025-07-09%20214028.png
